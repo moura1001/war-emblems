@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc7f2cbd8cd53b34c9efd07e93cd1f66
+timeCreated: 1569855162
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Eyes Only 3D
+  fontNames:
+  - Eyes Only 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
